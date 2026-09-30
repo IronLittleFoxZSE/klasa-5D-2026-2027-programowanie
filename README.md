@@ -10,16 +10,8 @@ Komputer 2,4,6,8,10,12,14,16
 
 Referat 1.
 
-Podstawy kryptografii w programowaniu
+Programowanie obiektowe – idea, zastosowanie, zalety i wady
 
 Referat 2
 
-Kod źródłowy, kompilator i interpreter – proste wyjaśnienie
-
-Referat 3
-
-Historia informatyki – od pierwszych komputerów do AI
-
-Referat 4
-
-Algorytmy sortowania — porównanie działania, złożoności i zastosowań (np. Bubble Sort vs QuickSort).
+Rekurencja w programowaniu – sposób działania, przykłady, zalety i problemy
